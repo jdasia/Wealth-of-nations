@@ -57,8 +57,12 @@ Just below, 'Liechstenstein', 'Luxemborg' is plotted further to the right of the
 <img src="https://github.com/jdasia/Wealth-of-nations/blob/main/assets/GDP_Smartphones.png", align="center", style="display: block; amrgin: 0 auto;" >
 </div>
 
+ <br>
+ In this chart, it can be said that the smartphones are clustered at the bottom and the top parts of the chart show a range of values which are breaking out in a separate pattern. At first glance, I can assume the top few values are anomalies since they are closer to the left side of the data. On a relationship between the two, I believe there is no strong correlation between the two data points due to the cluser and various nations at the greatest GDP having much less smartphone users than some other nations such as 'india' and 'China'. 
 
 
+<h2> Conclusion</h2>
+To conclude, it is easier to come to conclusions about some of the data. In the case of GDP per capita and life expectancy, I can say that smartphone users  and GDP per capita can relate to life expectancy in an ascending manner which can be said like as the GDP per capita increases so does the life expectancy. 
 
 
 
