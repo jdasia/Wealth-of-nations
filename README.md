@@ -58,12 +58,11 @@ Just below, 'Liechstenstein', 'Luxemborg' is plotted further to the right of the
 </div>
 
  <br>
- In this chart, it can be said that the smartphones are clustered at the bottom and the top parts of the chart show a range of values which are breaking out in a separate pattern. At first glance, I can assume the top few values are anomalies since they are closer to the left side of the data. On a relationship between the two, I believe there is no strong correlation between the two data points due to the cluser and various nations at the greatest GDP having much less smartphone users than some other nations such as 'india' and 'China'. 
+ In this chart, it can be said that the smartphones are clustered at the bottom and the top parts of the chart show a range of values which are breaking out in a separate pattern. At first glance, I can assume the top few values are anomalies since they are closer to the left side of the data. On a relationship between the two variables, I believe there is no strong correlation since the various nations at the greatest GDP are recorded to have less smartphone users than the cluster of nations such as 'india' and 'China' with a large number of smartphone users at a relatively low GDP in comparison. Due to this observation, this dataset does not show a relationship between GDP and smartphone users. The number of smartphone users in nation is likely to be more affected by other factors, since 'India' and 'China', for example show a great number of smartphone users which correlates with data on the size of their populations for example. 
 
 
 <h2> Conclusion</h2>
-To conclude, it is easier to come to conclusions about some of the data. In the case of GDP per capita and life expectancy, I can say that smartphone users  and GDP per capita can relate to life expectancy in an ascending manner which can be said like as the GDP per capita increases so does the life expectancy. 
-
+To conclude, wealth varies across continents and life expectancy can differ vastly in relation to the rate of GDP per capita. External factors may affect life expectancy in a country however the datasets explored in this report show an ascending relationship where greater GDP per capita likely corresponds to greater life expectancy. It can also be concluded that the number of smartphone users and GDP per capita are unrelated. Factors such as population size are more likely to affect the number of smartphone users in a nation. To expand on this report and further validate insights, more data collection on relevant features or factors can be conducted.
 
 
 
