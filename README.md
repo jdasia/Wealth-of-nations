@@ -64,16 +64,11 @@ Just below, 'Liechstenstein', 'Luxemborg' is plotted further to the right of the
 <h2> Conclusion</h2>
 To conclude, wealth varies across continents and life expectancy can differ vastly in relation to the rate of GDP per capita. External factors may affect life expectancy in a country however the datasets explored in this report show an ascending relationship where greater GDP per capita likely corresponds to greater life expectancy. It can also be concluded that the number of smartphone users and GDP per capita are unrelated. Factors such as population size are more likely to affect the number of smartphone users in a nation. To expand on this report and further validate insights, more data collection on relevant features or factors can be conducted.
 
-
-
-
-
-
-
-
-
-
-
+<h2>References </h2>
+<html>
+<h4> view interactive dashboard <a href='https://public.tableau.com/views/wealthofnations_17150183193040/WealthofNations?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link'> tableau.com </a> <br>
+ view the report <a href='wealth of nations report .pdf'> <t> wealth of nations.pdf </a>
+</h4>
 
 
 
